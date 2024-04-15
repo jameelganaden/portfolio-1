@@ -81,6 +81,14 @@ header nav:hover > a:not(:hover) {
     font-size: 40px;
 }
 
+.clicker h2 {
+  padding: 10px;
+  padding-left: 50px;
+  background: #3B3291;
+  color: white;
+  font-size: 40px;
+}
+
     @-webkit-keyframes slidein {
         0% {
           top: -400px;
